@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/off-white-mentorship',
+  basePath: '/offwhite',
   images: {
     unoptimized: true,
   },
